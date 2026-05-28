@@ -1,0 +1,8 @@
+.env
+*.env.*
+secrets.*
+credentials.*
+*.key
+*.pem
+Thumbs.db
+.DS_Store
